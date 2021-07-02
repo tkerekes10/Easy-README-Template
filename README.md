@@ -1,8 +1,8 @@
-# tom
+# Easy README Generator
 
   ## Descripton
   
-  test
+  This application is used to create READMEs in a simple template with prompted questions.
 
   ## Table of Contents
 
@@ -21,22 +21,22 @@
       
   ### Dependencies:  
   The following dependencies are required for use:  
- * 1234  
+ * inquirer and fs are the node packages being used in this application.  
   
   ##  Usage instructions  
 ***
     
-  fir 
+  In order to use this application you will need to run the CLI command "node index.js" and then answer the prompts. 
     
   ##  Contribution Guidelines  
 ***
     
-  e
+  Please reach out to me with the contact information below if you would like to contribute.
     
   ##  Testing Instructions  
   ***
     
-  e  
+    
     
   ##  License
   ***
@@ -47,7 +47,7 @@
   ##  Questions?  
   ***
   
-  If you have any questions reach out to d
+  If you have any questions reach out to tkerekes10@gmail.com
 
 
   
