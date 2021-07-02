@@ -31,7 +31,8 @@
   In order to use this application you will need to run the CLI command "node index.js" and then answer the prompts. 
   
   ### DEMO
-  ![caption](/Easy-README-DEMO.mp4)
+  [![Alternate Text]({/Easy-README-DEMO.mp4} "Demo")
+  ![DEMO](/Easy-README-DEMO.mp4)
     
   ##  Contribution Guidelines  
 ***
