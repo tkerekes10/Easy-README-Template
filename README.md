@@ -32,7 +32,6 @@
   
   ### DEMO
   [![Alternate Text]({/Easy-README-DEMO.mp4} "Demo")
-  ![DEMO](/Easy-README-DEMO.mp4)
     
   ##  Contribution Guidelines  
 ***
