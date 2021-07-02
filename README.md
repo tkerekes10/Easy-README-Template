@@ -21,12 +21,17 @@
       
   ### Dependencies:  
   The following dependencies are required for use:  
- * inquirer and fs are the node packages being used in this application.  
+  Node Packages
+ * inquirer
+ * fs
   
   ##  Usage instructions  
 ***
     
   In order to use this application you will need to run the CLI command "node index.js" and then answer the prompts. 
+  
+  ### DEMO
+  ![caption](/Easy-README-DEMO.mp4)
     
   ##  Contribution Guidelines  
 ***
