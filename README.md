@@ -31,7 +31,8 @@
   In order to use this application you will need to run the CLI command "node index.js" and then answer the prompts. 
   
   ### DEMO
-  [![DEMO]({/Easy-README-DEMO.mp4} "Demo")
+  
+  * In order to see the demo, you will need to click on the Employee-Manager-DEMO.mp4 and then click the view raw link to open the video.
     
   ##  Contribution Guidelines  
 ***
